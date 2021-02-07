@@ -36,6 +36,7 @@ namespace ReferenceTypes
             Customer customer = new Customer();
             customer.FirstName = "Boris";
             customer.CreditCardNumber = "123456789";
+
             Employee employee = new Employee();
             employee.FirstName = "Nilay";
 
